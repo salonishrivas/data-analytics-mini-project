@@ -1,2 +1,3 @@
 # data-analytics-mini-project
-this repository contains all the data analytics min projects done with the source of reference , dataset, and dashboard creation 
+This repository contains all the data analytics-related mini projects done with the source of reference, dataset, and dashboard creation.
+
